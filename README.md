@@ -32,7 +32,7 @@ Passionné par **C++, Data Science et Open Source**, j’aime apprendre, coder e
 ## 📅 Timeline
 
 - **2022 – 2025** : Étudiant @ 42 Perpignan 🎓  
-- **2023 – Aujourd’hui** : Data Scientist @ Banque Populaire du Sud 💼  
+- **2025 – Aujourd’hui** : Data Scientist @ Banque Populaire du Sud 💼  
 - **Projets personnels** : Scripts Python, projets C++, challenges open-source 💡  
 
 ---
@@ -68,8 +68,6 @@ Passionné par **C++, Data Science et Open Source**, j’aime apprendre, coder e
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-seiberras/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lseiberr)
 </div>
-
-✉️ Email : (optionnel)  
 
 ---
 
